@@ -1,0 +1,9 @@
+.\objects\pid_pos.o: Matlab\PID_POS.c
+.\objects\pid_pos.o: Matlab\PID_POS.h
+.\objects\pid_pos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\pid_pos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\pid_pos.o: Matlab\rtwtypes.h
+.\objects\pid_pos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\pid_pos.o: Matlab\rt_SATURATE.h
+.\objects\pid_pos.o: Matlab\PID_POS_types.h
+.\objects\pid_pos.o: Matlab\PID_POS_private.h
